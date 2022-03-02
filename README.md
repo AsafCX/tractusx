@@ -32,4 +32,4 @@ Tractus-X and its involved parties intend to move to Eclipse as soon as possible
 Contact the project developers via the Tractus-X "dev" list: 
 https://accounts.eclipse.org/mailing-list/tractusx-dev
 
-oowwwww
+oowwwww2q
